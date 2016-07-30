@@ -1,0 +1,1 @@
+# Linked-List-Menggunakan-Algoritma-Stack-dengan-C-
